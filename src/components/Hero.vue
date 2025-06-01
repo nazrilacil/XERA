@@ -34,7 +34,7 @@
           </span>
         </div>
         <h1 class="text-5xl md:text-7xl lg:text-8xl font-bold mb-6">
-          <span class="text-slate-50 XTRAHERA">XTRAHERA</span>
+          <span class="text-slate-50 text-md XTRAHERA">XTRAHERA</span>
         </h1>
         <p class="text-xl md:text-2xl max-w-2xl mx-auto mb-10 text-slate-300" ref="heroSubtitle">
           Mengubah visi digital Anda menjadi realitas dengan solusi<span class="text-slate-50 font-medium"> UI/UX, Web, dan Mobile </span>Development yang inovatif
