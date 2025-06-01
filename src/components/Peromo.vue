@@ -6,7 +6,7 @@
   
     <p class="text-center font-medium">
       Order Website Termurah di
-      <a href="#" class="inline-block underline"> Safcil Dev </a>
+      <a href="#" class="inline-block underline"> XTRAHERA </a>
     </p>
   
     <button

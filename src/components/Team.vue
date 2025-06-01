@@ -5,7 +5,7 @@
         <h2 class="text-4xl md:text-5xl font-bold mb-4">
           <span class="text-slate-50">Tim Kami</span>
         </h2>
-        <p class="text-lg text-slate-400 max-w-2xl mx-auto">Kenali tim profesional di balik layanan berkualitas SAFCIL DEV</p>
+        <p class="text-lg text-slate-400 max-w-2xl mx-auto">Kenali tim profesional di balik layanan berkualitas XTRAHERA</p>
       </div>
 
       <div class="flex flex-wrap justify-center gap-4 mb-12">
@@ -124,7 +124,7 @@ export default {
           id: 1,
           name: 'Nazril Acil',
           position: 'Founder & CEO',
-          description: 'Nazril Acil adalah seorang pengembang web (web developer) yang aktif dalam pengembangan perangkat lunak berbasis frontend dan backend. web full-stack yang dikenal karena karya dan kontribusinya dalam edukasi teknologi, beliau mendirikan SAFCIL DEV untuk menyediakan solusi digital berkualitas premium yang menghasilkan dampak nyata bagi klien. Kompetensi utamanya meliputi kepemimpinan teknologi, arsitektur sistem, strategi produk, dan pengembangan bisnis.',
+          description: 'Nazril Acil adalah seorang pengembang web (web developer) yang aktif dalam pengembangan perangkat lunak berbasis frontend dan backend. web full-stack yang dikenal karena karya dan kontribusinya dalam edukasi teknologi, beliau mendirikan XTRAHERA untuk menyediakan solusi digital berkualitas premium yang menghasilkan dampak nyata bagi klien. Kompetensi utamanya meliputi kepemimpinan teknologi, arsitektur sistem, strategi produk, dan pengembangan bisnis.',
           skills: ['Web Developer','Software Engineer','Tech Enthusiast','Product Strategy','Business Development'],
           image: '/team/ceo.webp',
           expanded: false
@@ -133,7 +133,7 @@ export default {
           id: 2,
           name: 'Safira Aliyah Azmi',
           position: 'Co-Founder & CMO',
-          description: 'Safira Aliyah Azmi adalah spesialis pemasaran digital dengan fokus pada pengembangan merek dan strategi akuisisi pelanggan. Sebagai CMO SAFCIL DEV, beliau mengarahkan inisiatif pemasaran perusahaan dengan pendekatan berbasis data yang didukung pemikiran kreatif untuk mendorong pertumbuhan optimal bagi bisnis klien. Keahliannya mencakup strategi merek, pemasaran digital, growth hacking, pemasaran konten, dan riset pasar.',
+          description: 'Safira Aliyah Azmi adalah spesialis pemasaran digital dengan fokus pada pengembangan merek dan strategi akuisisi pelanggan. Sebagai CMO XTRAHERA, beliau mengarahkan inisiatif pemasaran perusahaan dengan pendekatan berbasis data yang didukung pemikiran kreatif untuk mendorong pertumbuhan optimal bagi bisnis klien. Keahliannya mencakup strategi merek, pemasaran digital, growth hacking, pemasaran konten, dan riset pasar.',
           skills: ['Digital Marketing','Brand Strategy','Growth Hacking','Content Marketing','Market Research'],
           image: '/team/cmo.webp',
           expanded: false

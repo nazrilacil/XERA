@@ -3,7 +3,7 @@
     <div class="container">
       <div class="text-center mb-16" ref="sectionTitle">
         <h2 class="text-4xl md:text-5xl font-bold mb-4">
-          <span class="text-slate-50">Tentang SAFCIL DEV</span>
+          <span class="text-slate-50">Tentang XTRAHERA</span>
         </h2>
         <p class="text-lg text-slate-400 max-w-2xl mx-auto">Kami membangun solusi digital yang menarik dan fungsional</p>
       </div>
@@ -12,7 +12,7 @@
         <div class="relative" ref="aboutContent">
           <div class="relative z-10">
             <p class="text-slate-300 text-lg mb-6">
-              <span class="font-semibold text-white">SAFCIL DEV</span> adalah agensi pengembangan software yang berfokus pada solusi digital komprehensif melalui pendekatan yang inovatif dan berorientasi hasil. Kami percaya bahwa teknologi yang baik harus mempermudah dan memperkaya pengalaman pengguna.
+              <span class="font-semibold text-white">XTRAHERA</span> adalah agensi pengembangan software yang berfokus pada solusi digital komprehensif melalui pendekatan yang inovatif dan berorientasi hasil. Kami percaya bahwa teknologi yang baik harus mempermudah dan memperkaya pengalaman pengguna.
             </p>
             <p class="text-slate-300 text-lg mb-8">
               Dengan tim yang terdiri dari desainer dan developer berpengalaman, kami menyediakan layanan UI/UX Design, Web Development, dan Mobile Development untuk membantu bisnis Anda berkembang di era digital.

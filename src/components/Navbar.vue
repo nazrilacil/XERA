@@ -3,8 +3,8 @@
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
       <div class="flex h-16 items-center justify-between">
         <div class="flex-1 md:flex md:items-center md:gap-12">
-          <a class="block text-slate-50 safcil" href="/">
-            SAFCIL DEV
+          <a class="block text-slate-50 XTRAHERA" href="/">
+            XTRAHERA
           </a>
         </div>
   
