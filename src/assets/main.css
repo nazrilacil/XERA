@@ -1,0 +1,10 @@
+@import './base.css';
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('/fonts/EthnocentricIt.otf')format('truetype');
+}
+
+.safcil {
+    font-family: 'Ethnocentric', sans-serif;
+    /* font-weight: 700; */
+}
