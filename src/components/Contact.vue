@@ -83,7 +83,7 @@
                 </div>
                 <div>
                   <h4 class="text-white font-medium">Telepon</h4>
-                  <p class="text-slate-400">+62 851 7541 4118</p>
+                  <p class="text-slate-400">+62 852 8272 5798</p>
                 </div>
               </div>
               
@@ -96,7 +96,7 @@
                 </div>
                 <div>
                   <h4 class="text-white font-medium">Email</h4>
-                  <p class="text-slate-400">info@nazril.com</p>
+                  <p class="text-slate-400">info@xtrahera.com</p>
                 </div>
               </div>
               
